@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYeInmsxjMk9ePN3FOPAhkPaabZD8YR7dmxt8pK9oMRopT2NKmwGNMP6w+F42EkJBgzN8o7xs5or5MWDfg0xAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tazmondo\\Desktop\\Programming projects\\Projects\\F#\\FirstFSharp\\FirstFSharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tazmondo\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
