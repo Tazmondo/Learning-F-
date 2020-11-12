@@ -57,4 +57,4 @@ let result =
         | _ -> 0.0
 
 printfn "The result is: %A" result
-Console.ReadLine()
+Console.ReadLine() |> ignore
